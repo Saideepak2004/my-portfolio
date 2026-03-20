@@ -5,6 +5,8 @@
 I am an Electronics and Communication Engineering (ECE) student with a strong interest in **Full Stack Development and AI/ML**.
 I enjoy building real-time applications and intelligent systems that solve practical problems.
 
+## projects
+
 ###  Predictive Maintenance for Screw Tightening
 
 * Built a real-time monitoring system using **Python, Tkinter, and MySQL**
