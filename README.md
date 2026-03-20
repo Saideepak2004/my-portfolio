@@ -25,7 +25,7 @@ I enjoy building real-time applications and intelligent systems that solve pract
 
 ##  Skills
 
-* **Programming:** Python, JavaScript
+* **Programming:** Python, JavaScript,C
 * **Web Development:** React, HTML, CSS
-* **AI/ML:** Machine Learning, NLP, LSTM
+* **AI/ML:** Machine Learning, NLP, Deep Learning
 * **Database:** MySQL
